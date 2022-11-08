@@ -1,6 +1,4 @@
-use std::io;
-
-fn l_02() {
+pub fn l_02() {
     let width1 = 30;
     let height1 = 50;
 

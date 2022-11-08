@@ -1,6 +1,7 @@
 [workspace]
 
 members = [
+    "barcode",
     "lesson",
     "adder",
     "add_one",
